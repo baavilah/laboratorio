@@ -1,0 +1,5 @@
+Es un programa que tiene dos funciones. Primero en el main
+ se imprime un texto, luego se llamaa la primera funcion que
+ imprime otro texto, seguidamente se llama a una segundo 
+funcion que imprime otro texto y finalmente se vuelve el 
+main que impeime un texto final.

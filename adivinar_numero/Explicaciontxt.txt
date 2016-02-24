@@ -1,0 +1,1 @@
+El programa genera un número aleatorio entre 0 y 100 el cual el usuario debe adivinar, teniendo éste 7 intentos para adivinar el número, si se pasa de estos intentos el programa imprimirá un mensaje diciendo que ha perdido y le ofrecerá al usuario jugar de nuevo o salir del programa.
